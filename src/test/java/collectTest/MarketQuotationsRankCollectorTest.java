@@ -10,6 +10,7 @@ import java.rmi.RemoteException;
 import java.util.List;
 
 /**
+ *  股票爬虫
  * @author: decaywood
  * @date: 2015/11/25 14:55
  */
